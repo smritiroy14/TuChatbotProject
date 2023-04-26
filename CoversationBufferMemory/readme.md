@@ -1,0 +1,3 @@
+Go thru the chatbot_langchain_conversational_memory.ipynb to understand the memory buffer options in langchain.
+
+In Token_counter_conversationalmemory.ipynb,We have performed some comparison testing to demonstrate why conversationalSummaryMemory is the best option for our chatbot. In this notebook, we will count the number of tokens utilized in a discussion for various conversational memory kinds. 
